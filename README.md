@@ -108,3 +108,6 @@ The skill provides context from `SKILL.md` and reference documentation to guide 
 ## License
 
 This skill repository is provided as-is for use with Claude Code. Refer to official TOON format repositories for their respective licenses.
+
+## Changelog
+See [CHANGELOG.md](CHANGELOG.md).
